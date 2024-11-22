@@ -6,7 +6,9 @@ The given data is from their most recent animal study. In this study, 249 mice w
 The executive team has tasked you with generating all of the tables and figures needed for the technical report of the clinical study. They have also asked you for a top-level summary of the study results.
 
 ## Solution
-- 
+- [DataAnalysisReport]()
+- [Pymaceuticals.ipnyb](https://github.com/Saurabh-Lakhanpal/matplotlib-challenge/blob/main/Pymaceuticals/pymaceuticals_solution.ipynb)
+- Raw Data - [Mouse_metadata.csv](https://github.com/Saurabh-Lakhanpal/matplotlib-challenge/blob/main/Pymaceuticals/data/Mouse_metadata.csv) | [Study_results.csv](https://github.com/Saurabh-Lakhanpal/matplotlib-challenge/blob/main/Pymaceuticals/data/Study_results.csv)
 
 ## Instructions
 This assignment is broken down into the following tasks:
