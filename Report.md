@@ -33,5 +33,4 @@ The <strong>R-squared</strong> value of 0.9034 confirms that the linear model ex
 A <strong>P-value</strong> of 0.9999999999999923 is <strong>extremely high</strong>, indicating that the observed positive association is almost certainly <strong>not due to chance</strong>. Lastly, the drug regimen of Capomulin has shown to significantly reduce tumor volume (mm3) on average compared to the other drug regimen trials, especially in Female mice.
 </p>
 
-![image](https://github.com/user-attachments/assets/288b41a3-4f44-4174-b3ad-11ca9f2ca9a9)
-![image](https://github.com/user-attachments/assets/3b27690b-cbae-47ad-bf72-54292b25a38f)
+
