@@ -7,6 +7,7 @@ The executive team has tasked you with generating all of the tables and figures 
 
 ## Solution
 - [Pymaceuticals.ipnyb](https://github.com/Saurabh-Lakhanpal/matplotlib-challenge/blob/main/Pymaceuticals/pymaceuticals_solution.ipynb)
+- [DataAnalysisReport](https://github.com/Saurabh-Lakhanpal/matplotlib-challenge/blob/main/Report.md)
 
 #### RawDataFiles
 - [Mouse_metadata.csv](https://github.com/Saurabh-Lakhanpal/matplotlib-challenge/blob/main/Pymaceuticals/data/Mouse_metadata.csv)
