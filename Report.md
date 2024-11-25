@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/288b41a3-4f44-4174-b3ad-11ca9f2ca9a9)
 ![image](https://github.com/user-attachments/assets/3b27690b-cbae-47ad-bf72-54292b25a38f)
 
-#### <ins>Ramicane - most effective in Tumor reduction in Male mice</ins>
+### <ins>Ramicane - most effective in Tumor reduction in Male mice</ins>
 
 <p><strong>x_value</strong>: Weight (g)</p>
 <p><strong>y_value</strong>: Avg Tumor Volume (mm3)</p>
@@ -20,7 +20,7 @@ A <strong>P-value</strong> of 0.9999999999999787 is <strong>extremely high</stro
 </p>
 
 
-#### <ins>Capomulin - most effective in Tumor reduction in Female mice</ins>
+### <ins>Capomulin - most effective in Tumor reduction in Female mice</ins>
 
 <p><strong>x_value</strong>: Weight (g)</p>
 <p><strong>y_value</strong>: Avg Tumor Volume (mm3)</p>
