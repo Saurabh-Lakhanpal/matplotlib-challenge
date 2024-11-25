@@ -15,4 +15,5 @@ A lower <strong>Standard Error</strong> at 1.0249 suggests a relatively <strong>
 The <strong>R-squared</strong> value of 0.9034 confirms that the linear model explains a significant portion of the variance in the data and indicates a <strong> very strong positive</strong> linear relationship between x_values and y_values.
 A <strong>P-value</strong> of 0.9999999999999923 is <strong>extremely high</strong>, indicating that the observed positive association is almost certainly <strong>not due to chance</strong>. Lastly, the drug regimen of Capomulin has shown to significantly reduce tumor volume (mm3) on average compared to the other drug regimen trials, especially in Female mice.
 </p>
+
 ![image](https://github.com/user-attachments/assets/3b27690b-cbae-47ad-bf72-54292b25a38f)
